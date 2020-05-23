@@ -1,20 +1,13 @@
 ---
 title: About
-date: 2019-07-09
+date: 2019-07-09T00:00:00.000Z
 menu: main
+draft: true
 ---
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+This blog was born out of frustration towards the media the young Indian audience is looking at.
 
-## How to use?
+Why are so many of us concerned about Donald Trump. We don't live in the USA.
 
-### Managing content with [Forestry](https://forestry.io)
+More and more people need to pay attention to their own country and try and contribute towards solving issues.
 
-If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!
-
-[![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://cecil.app/cms/forestry/import/)
-
-### Deploy with [Netlify](https://www.netlify.com)
-
-Otherwise, if your goal is deploying a new blog quickly, and manage content mannually, use the following button to configure and deploy your new blog on Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/the-butler&stack=cms)
+If you are interested in writing for this blog, get in touch with me on LinkedIn at *https://www.linkedin.com/in/alabhya-jindal/*
