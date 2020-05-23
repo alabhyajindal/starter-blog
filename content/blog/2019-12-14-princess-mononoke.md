@@ -1,5 +1,5 @@
 ---
-title: Situation in Bengaluru
+title: Situation in Meghalaya
 date: 2020-06-23T00:00:00.000Z
 image: /images/fall.jpeg
 tags:
